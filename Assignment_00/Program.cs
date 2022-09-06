@@ -2,14 +2,15 @@
 namespace Assignment_00;
     public class Program
     {
-        static void Main(string[] args) 
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        public static void Main(string[] args) {}
 
-        public static int Add(int x, int y) 
+        public static bool IsLeapYear(int x) 
         {
-            return x * y + 100;
+            if(x%4 != 0 || (x % 100 == 0 && x % 400 != 0))
+            {
+                return false;
+            }
+            return true;
         }
     }
 
