@@ -1,0 +1,15 @@
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/bin/Debug/net6.0/Assignment_00
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/bin/Debug/net6.0/Assignment_00.deps.json
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/bin/Debug/net6.0/Assignment_00.runtimeconfig.json
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/bin/Debug/net6.0/Assignment_00.dll
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/bin/Debug/net6.0/ref/Assignment_00.dll
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/bin/Debug/net6.0/Assignment_00.pdb
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/Assignment_00.csproj.AssemblyReference.cache
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/Assignment_00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/Assignment_00.AssemblyInfoInputs.cache
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/Assignment_00.AssemblyInfo.cs
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/Assignment_00.csproj.CoreCompileInputs.cache
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/Assignment_00.dll
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/ref/Assignment_00.dll
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/Assignment_00.pdb
+/Users/tjornelund/Documents/ITU/Analysis, Design and Software Architecture/C#/bdsa-Assignment_00/Assignment_00/obj/Debug/net6.0/Assignment_00.genruntimeconfig.cache
