@@ -5,7 +5,7 @@ namespace Assignment_00;
         public static void Main(string[] args) {
             Console.WriteLine("Enter Year:");
             string input = Console.ReadLine();
-            while (!int.TryParse(input, out int temp) || temp < 1582) {
+            while (ValidateInput(input)) {
                 Console.WriteLine("Enter Year as numeric value like xxxx and the year should be past 1582");
                 input = Console.ReadLine();
             }
@@ -19,9 +19,6 @@ namespace Assignment_00;
 
         public static bool IsLeapYear(int year) 
         {
-            if(year < 1582) {
-                Console.WriteLine("");
-            }
             if(year%4 != 0 || (year % 100 == 0 && year % 400 != 0))
             {
                 return false;
@@ -32,8 +29,13 @@ namespace Assignment_00;
         public static bool IsLeapYear(string yearString) 
         {
             int year;
-            if(!int.TryParse(yearString, out year)){}
+            int.TryParse(yearString, out year);
             return IsLeapYear(year);
+        }
+
+        public static bool ValidateInput(string input) 
+        {
+            return !int.TryParse(input, out int temp) || temp < 1582;
         }
     }
 

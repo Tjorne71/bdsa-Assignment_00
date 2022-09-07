@@ -5,10 +5,10 @@ namespace Assignment_00.Tests;
 
 public class UnitTest1
 {
+
     [Fact]
     public void IsLeapYearTest()
     {
-
         // Divisible by 4
         Assert.Equal(true, Program.IsLeapYear(4));
         Assert.Equal(true, Program.IsLeapYear(8));
